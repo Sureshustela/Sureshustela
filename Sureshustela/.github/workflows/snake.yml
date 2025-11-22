@@ -2,8 +2,8 @@ name: Update GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
-  workflow_dispatch:
+    - cron: '0 * * * *' # runs at the start of every hour
+  workflow_dispatch: # manual trigger
 
 jobs:
   update-snake:
@@ -20,3 +20,4 @@ jobs:
           git add output/github-contribution-grid-snake.svg
           git commit -m "Update GitHub contribution snake" || echo "No changes to commit"
           git push
+
