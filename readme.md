@@ -64,13 +64,14 @@ I am a dedicated DevOps Engineer with 4+ years of experience in designing and ma
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sureshustela&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sureshustela&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sureshustela&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sureshustela&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&theme=dark&hide_border=false&layout=compact" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Sureshustela&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
