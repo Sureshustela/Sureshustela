@@ -75,6 +75,7 @@ I am a dedicated DevOps Engineer with 4+ years of experience in designing and ma
 
 ---
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -82,6 +83,6 @@ I am a dedicated DevOps Engineer with 4+ years of experience in designing and ma
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-
+###
 
 Thanks for visiting my GitHub! 👋
