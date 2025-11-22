@@ -81,6 +81,4 @@ I am a dedicated DevOps Engineer with 4+ years of experience in designing and ma
   <img src="https://raw.githubusercontent.com/Sureshustela/Sureshustela/main/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
----
-
 Thanks for visiting my GitHub! 👋
