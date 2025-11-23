@@ -16,7 +16,7 @@
 
 ---
 
-I am a dedicated DevOps Engineer with 4+ years of experience in designing and managing scalable, secure, and highly available cloud environments. I focus on automating infrastructure, implementing robust CI/CD pipelines, and ensuring reliability across AW
+I am a dedicated DevOps Engineer with 4+ years of experience in designing and managing scalable, secure, and highly available cloud environments. I focus on automating infrastructure, implementing robust CI/CD pipelines, and ensuring reliability across AWS
 
 ---
 
@@ -39,8 +39,35 @@ I am a dedicated DevOps Engineer with 4+ years of experience in designing and ma
 ### 💼 Career Snapshot
 
 - 🏢 **HCLTech** – *DevOps Engineer*  
-  DevOps Engineer | 4+ yrs DevOps | AWS, Terraform, Jenkins, Docker, Kubernetes
-  Building scalable, secure, and highly available cloud platforms. Automating CI/CD pipelines and driving reliability at enterprise scale.
+
+  • Automated infra with Terraform, Ansible, Cloud Formation.
+  • Managed scalable deployments on AWS.
+  • Orchestrated containers with Docker & Kubernetes.
+  Improved monitoring & alerting with Prometheus, Grafana, ELK,
+  Cloud Watch.
+  • Maintained version control systems like Git or SVN for seamless
+  collaboration among developers and engineers during project
+  lifecycles.
+  • Designed and implemented containerization strategies using
+  Docker and Kubernetes, improving resource utilization and
+  management.
+  • Monitored automated build and continuous software integration
+  process to drive build/release failure resolution.
+
+
+- 🏢 **HCLTech**  - *Production Support Engineer*  
+  • Led a 24x7 production support team, ensuring 99.9% uptime.
+  • Managed incident, problem, and change management per ITIL.
+  • Drove root cause analysis (RCA) and implemented permanent
+  fixes.
+  
+  • Coordinated with cross-functional teams for fast resolution.
+  Automated manual tasks through scripting languages such as
+  Python or Shell, boosting team productivity levels.
+
+  • Provided 24/7 on-call support for critical systems, ensuring high
+  • vailability and rapid issue resolution.
+
 
 
 
