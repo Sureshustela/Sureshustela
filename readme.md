@@ -16,24 +16,27 @@
 
 ---
 
-DevOps Engineer with 10+ years of IT experience and 4+ years in cloud-native DevOps. Expertise in AWS,
-Kubernetes, Terraform, and CI/CD automation, focused on improving operational efficiency and maintaining
-high availability and reliability in mission-critical environments.
+🧑‍💻 About Me
 
+DevOps Engineer with 10+ years of IT experience, including 4+ years in cloud-native DevOps and 6 years in production support.
+Specialized in AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS), and high-availability systems.
+
+🔹 Strong focus on automation, reliability, and scalability
+🔹 Proven experience supporting mission-critical production systems (99.9% uptime)
+🔹 Passionate about DevOps best practices & continuous improvement
 ---
 
-### 🧰 Tech Stack
+🧰 Tech Stack
 
-- **Cloud**: AWS
-- **OS**: Linux, Windows
-- **CI/CD**: GitHub Actions, Jenkins
-- **SCM**: GitHub
-- **IaC**: Terraform 
-- **Containers**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube
-- **Arifactory**: Github 
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Prometheus, Grafana, CloudWatch, Azure Monitor 
+Cloud: AWS
+CI/CD: Jenkins, GitHub Actions
+Containers: Docker, Kubernetes (EKS)
+IaC: Terraform, Ansible
+Monitoring: Prometheus, Grafana, CloudWatch, Azure Monitor
+Security: SonarQube
+SCM: Git, GitHub
+OS: Linux (RHEL/Ubuntu), Windows
+Scripting: Bash, Shell, Python
 
 ---
 
