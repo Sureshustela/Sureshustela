@@ -84,7 +84,7 @@ Specialized in **AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshustela&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sureshustela&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sureshustela&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshustela&layout=compact&theme=tokyonight&hide_border=true)
 
