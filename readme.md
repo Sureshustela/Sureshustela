@@ -43,7 +43,7 @@ high availability and reliability in mission-critical environments.
 DevOps Engineer - HCLTech
 📅 01/2022 - Present
 
-• Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40%
+• Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40% <br><br>
 • Designed and implemented CI/CD pipelines with Jenkins, accelerating release cycles by 30%
 • Managed Kubernetes workloads (EKS), optimizing resource utilization and scaling applications seamlessly
 • Implemented blue-green deployments to minimize downtime during releases
