@@ -1,110 +1,91 @@
-<div align="center">
-  <img src="https://github.com/Sureshustela/Sureshustela/blob/main/Banner.jpg" alt="GitHub Banner" width="800"/>
-</div>
+## 👋 Hi, I’m **Suresh Ustela**
 
+### 🚀 DevOps Engineer @ HCLTech  
+**10+ Years IT Experience | 4+ Years DevOps | AWS | Kubernetes | Terraform | Jenkins**
 
-👋 Hi, I’m Suresh Ustela
-🚀 DevOps Engineer @ HCLTech
-
-10+ Years IT Experience | 4+ Years DevOps | AWS | Kubernetes | Terraform | Jenkins
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/suresh-ustela/)
-[![Gmail](https://img.shields.io/badge/Email-usuresh12345@gmail.com-green?logo=gmail&style=flat)](mailto:usuresh12345@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/suresh-ustela/)
+[![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail)](mailto:usuresh12345@gmail.com)
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-DevOps Engineer with 10+ years of IT experience, including 4+ years in cloud-native DevOps and 6 years in production support.
-Specialized in AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS), and high-availability systems.
+DevOps Engineer with **10+ years of IT experience**, including **4+ years in cloud-native DevOps** and **6 years in production support**.  
+Specialized in **AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS)**, and **high-availability systems**.
 
-🔹 Strong focus on automation, reliability, and scalability
-🔹 Proven experience supporting mission-critical production systems (99.9% uptime)
-🔹 Passionate about DevOps best practices & continuous improvement
----
-
-🧰 Tech Stack
-
-Cloud: AWS
-CI/CD: Jenkins, GitHub Actions
-Containers: Docker, Kubernetes (EKS)
-IaC: Terraform, Ansible
-Monitoring: Prometheus, Grafana, CloudWatch, Azure Monitor
-Security: SonarQube
-SCM: Git, GitHub
-OS: Linux (RHEL/Ubuntu), Windows
-Scripting: Bash, Shell, Python
+- Strong focus on **automation, reliability, and scalability**
+- Proven experience supporting **mission-critical systems (99.9% uptime)**
+- Passionate about **DevOps best practices & continuous improvement**
 
 ---
 
+## 🧰 Tech Stack
 
-### 💼 Career Snapshot
+**Cloud:** AWS  
+**CI/CD:** Jenkins, GitHub Actions  
+**Containers:** Docker, Kubernetes (EKS)  
+**IaC:** Terraform, Ansible  
+**Monitoring:** Prometheus, Grafana, CloudWatch, Azure Monitor  
+**Security:** SonarQube  
+**SCM:** Git, GitHub  
+**OS:** Linux (RHEL/Ubuntu), Windows  
+**Scripting:** Bash, Shell, Python  
 
-DevOps Engineer - HCLTech
-📅 01/2022 - Present
+---
 
-• Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40% <br><br>
-• Designed and implemented CI/CD pipelines with Jenkins, accelerating release cycles by 30%
-• Managed Kubernetes workloads (EKS), optimizing resource utilization and scaling applications seamlessly
-• Implemented blue-green deployments to minimize downtime during releases
-• Integrated Prometheus & Grafana dashboards for proactive monitoring and alerting
-• Automated Linux administration tasks with Bash/Python, eliminating 70% of manual effort
+## 💼 Experience
 
+### **DevOps Engineer – HCLTech**  
+📅 *Jan 2022 – Present*
 
-Production Support Engineer - HCLTech
-📅  01/2015 - 12/2021
+- Automated AWS infrastructure using **Terraform & Ansible**, reducing manual effort by **40%**
+- Designed and maintained **Jenkins CI/CD pipelines**, accelerating releases by **30%**
+- Managed **Kubernetes (EKS)** workloads with auto-scaling and optimized resource utilization
+- Implemented **blue-green deployments**, minimizing downtime during releases
+- Built **Prometheus & Grafana dashboards** for proactive monitoring and alerting
+- Automated Linux administration with **Bash & Python**, eliminating **70% manual tasks**
 
-• Provided 24×7 production support ensuring 99.9% uptime for critical applications
-• Applied ITIL best practices for incident, problem, and change management
-• Automated routine operational tasks with Python & Shell scripts, reducing manual intervention
-• Collaborated with cross-functional teams to resolve high-priority incidents under SLA
-• Maintained and optimized Linux servers for performance and security compliance
+---
 
+### **Senior Production Support Engineer – HCLTech**  
+📅 *Jan 2015 – Dec 2021*
 
+- Delivered **24×7 production support** with **99.9% uptime**
+- Applied **ITIL best practices** for incident, problem, and change management
+- Automated routine operational tasks using **Shell & Python**
+- Resolved high-priority incidents within **SLA** through cross-team collaboration
+- Maintained Linux servers ensuring **performance, stability & security compliance**
 
+---
 
-## ⚙️ Skills Showcase
+## ⚙️ Skills & Tools
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sureshustela&show_icons=true&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sureshustela&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&layout=compact&theme=dark)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sureshustela&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sureshustela&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sureshustela&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" />
+</p>
 
 ---
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-Thanks for visiting my GitHub! 👋
+⭐ **Thanks for visiting my GitHub!**  
+Let’s connect and build reliable, scalable systems together 🚀
