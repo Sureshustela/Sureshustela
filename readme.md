@@ -75,15 +75,11 @@ Specialized in **AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sureshustela&show_icons=true&theme=dark)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sureshustela&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sureshustela&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Sureshustela&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshustela&layout=compact&theme=dark&hide_border=true)
 
 ---
 
