@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m **Suresh Ustela**
 
 ### 🚀 DevOps Engineer @ HCLTech  
-**10+ Years IT Experience | 4+ Years DevOps | AWS | Kubernetes | Terraform | Jenkins**
+**DevOps Engineer | AWS, Terraform, Docker, Kubernetes | CI/CD | Cloud Automation | 10+ Years IT Experiences**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/suresh-ustela/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail)](mailto:usuresh12345@gmail.com)
