@@ -61,7 +61,7 @@ Specialized in **AWS infrastructure automation, CI/CD pipelines, Kubernetes (EKS
 ## ⚙️ Skills & Tools
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/aws/aws-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
