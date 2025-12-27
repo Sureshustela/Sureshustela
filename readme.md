@@ -40,8 +40,8 @@ high availability and reliability in mission-critical environments.
 
 ### 💼 Career Snapshot
 
-DevOps Engineer
-HCLTech
+DevOps Engineer - HCLTech
+
 01/2022 - Present
 Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40%
 Designed and implemented CI/CD pipelines with Jenkins, accelerating release cycles by 30%
