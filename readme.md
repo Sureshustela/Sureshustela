@@ -41,24 +41,24 @@ high availability and reliability in mission-critical environments.
 ### 💼 Career Snapshot
 
 DevOps Engineer - HCLTech
+📅 01/2022 - Present
 
-01/2022 - Present
-Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40%
-Designed and implemented CI/CD pipelines with Jenkins, accelerating release cycles by 30%
-Managed Kubernetes workloads (EKS), optimizing resource utilization and scaling applications seamlessly
-Implemented blue-green deployments to minimize downtime during releases
-Integrated Prometheus & Grafana dashboards for proactive monitoring and alerting
-Automated Linux administration tasks with Bash/Python, eliminating 70% of manual effort
+• Automated AWS infrastructure provisioning using Terraform & Ansible, reducing manual effort by 40%
+• Designed and implemented CI/CD pipelines with Jenkins, accelerating release cycles by 30%
+• Managed Kubernetes workloads (EKS), optimizing resource utilization and scaling applications seamlessly
+• Implemented blue-green deployments to minimize downtime during releases
+• Integrated Prometheus & Grafana dashboards for proactive monitoring and alerting
+• Automated Linux administration tasks with Bash/Python, eliminating 70% of manual effort
 
 
-Production Support Engineer
-HCLTech
-01/2015 - 12/2021
-Provided 24×7 production support ensuring 99.9% uptime for critical applications
-Applied ITIL best practices for incident, problem, and change management
-Automated routine operational tasks with Python & Shell scripts, reducing manual intervention
-Collaborated with cross-functional teams to resolve high-priority incidents under SLA
-Maintained and optimized Linux servers for performance and security compliance
+Production Support Engineer - HCLTech
+📅  01/2015 - 12/2021
+
+• Provided 24×7 production support ensuring 99.9% uptime for critical applications
+• Applied ITIL best practices for incident, problem, and change management
+• Automated routine operational tasks with Python & Shell scripts, reducing manual intervention
+• Collaborated with cross-functional teams to resolve high-priority incidents under SLA
+• Maintained and optimized Linux servers for performance and security compliance
 
 
 
