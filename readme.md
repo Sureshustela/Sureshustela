@@ -3,10 +3,10 @@
 </div>
 
 
-# 👋 Hi, I'm Suresh Ustela
+👋 Hi, I’m Suresh Ustela
+🚀 DevOps Engineer @ HCLTech
 
-### DevOps Engineer @ HCLTech
-🚀 DevOps Engineer | 10+ Years IT Experience (4+ in DevOps, 6 in Production Support) | AWS | Terraform | Jenkins | Docker | Kubernetes | CI/CD Automation
+10+ Years IT Experience | 4+ Years DevOps | AWS | Kubernetes | Terraform | Jenkins
 
 
 
